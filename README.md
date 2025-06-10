@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EmplyeeDetails
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Employee_Details
+This is an employee details project in which we add the data according to the entry
+>>>>>>> d0d1460140d54a37566a12a5a3ab287296362028
